@@ -1,3 +1,4 @@
+![Banner of my profile!](/Joseph_NOMO.png "Banner")
 ### Hi there 👋
 
 Here are some ideas to get you started:
