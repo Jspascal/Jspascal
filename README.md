@@ -12,3 +12,5 @@ Here are some hints about me :
 [![Joseph GitHub stats](https://github-readme-stats.vercel.app/api?username=Jspascal)](https://github.com/anuraghazra/github-readme-stats)
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jspascal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jspascal)](https://github.com/anuraghazra/github-readme-stats)
