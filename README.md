@@ -17,3 +17,6 @@ Here are some hints about me :
 ---
 
 [![Top Langs](https://github-readme-stats-seven-sigma-53.vercel.app/api/top-langs/?username=Jspascal&layout=compact)](https://github.com/Jspascal/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
