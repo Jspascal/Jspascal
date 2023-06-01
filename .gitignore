@@ -1,0 +1,12 @@
+.git/branches
+.git/hooks
+.git/info
+.git/logs
+.git/objects
+.git/refs
+.git/COMMIT_EDITMSG
+.git/HEAD
+.git/config
+.git/description
+.git/index
+.git/packed-refs
