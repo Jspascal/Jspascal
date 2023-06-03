@@ -4,9 +4,9 @@
 
 Here are some hints about me :
 
-- 🔭 I’m currently working on my side project using springboot framework
-- 🦁 I'm also working on a project to raise awareness about sustainable exploitation our natural resources
-- 🌱 I’m currently learning Springboot and Angular
+- 🔭 I’m a web developer and I mostly focus on backends app using PHP, NestJs, Python
+- 🦁 I'm currently working on a project to raise awareness about sustainable exploitation our natural resources
+- 🌱 I’m currently learning Springboot
 - 👯 I’m looking to collaborate on any project that can help me grow my skills. Feel free to contact me at mailto:jspnomo@gmail.com
 - ⚡ Fun fact: I'm a proficient manga lover
 
