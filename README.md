@@ -21,7 +21,7 @@ Here are some hints about me :
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2023 - To: 03 June 2023
+From: 28 May 2023 - To: 04 June 2023
 
 Total Time: 16 hrs 3 mins
 
