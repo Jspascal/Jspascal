@@ -10,7 +10,7 @@ Here are some hints about me :
 - 👯 I’m looking to collaborate on any project that can help me grow my skills. Feel free to contact me at mailto:jspnomo@gmail.com
 - ⚡ Fun fact: I'm a proficient manga lover
 
----
+## <img src="/devcard.svg" width="400" alt="Joseph NOMO's Dev Card"/>
 
 [![Joseph GitHub stats](https://github-readme-stats-seven-sigma-53.vercel.app/api?username=Jspascal)](https://github.com/Jspascal/github-readme-stats)
 
