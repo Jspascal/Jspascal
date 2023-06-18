@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-| 👋  | Here are some hints about me :                                                                                                 | <img src="/devcard.svg" width="400" alt="Joseph NOMO's Dev Card"/> |
-| --- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| 👋  | Here are some hints about me :                                                                                                 | <td rowspan=6><img src="/devcard.svg" width="400" alt="Joseph NOMO's Dev Card"/></td> |
+| --- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 | 🔭  | I’m a web developer and I mostly focus on backends app using PHP, NestJs, Python                                               |
 | 🦁  | I'm currently working on a project to raise awareness about sustainable exploitation our natural resources                     |
 | 🌱  | I’m currently learning Springboot                                                                                              |
