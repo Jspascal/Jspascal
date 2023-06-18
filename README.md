@@ -14,8 +14,8 @@
 <table>
     <tr>
         <td width="1%">👋</td>
-        <td width="60%">Here are some hints about me :</td>
-        <td rowspan=6 width="39%"><img src="/devcard.svg" width="400" alt="Joseph NOMO's Dev Card"/></td>
+        <td width="55%">Here are some hints about me :</td>
+        <td rowspan=6 width="44%"><img src="/devcard.svg" width="400" alt="Joseph NOMO's Dev Card"/></td>
     </tr>
     <tr>
         <td>🔭</td>
