@@ -39,6 +39,7 @@
 
 </table>
 
+
 [![Joseph GitHub stats](https://github-readme-stats-seven-sigma-53.vercel.app/api?username=Jspascal)](https://github.com/Jspascal/github-readme-stats)
 
 ---
