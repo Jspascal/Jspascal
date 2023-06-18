@@ -13,9 +13,9 @@
 
 <table>
     <tr>
-        <td>👋</td>
-        <td>Here are some hints about me :</td>
-        <td rowspan=6><img src="/devcard.svg" width="400" alt="Joseph NOMO's Dev Card"/></td>
+        <td width="1%">👋</td>
+        <td width="60%">Here are some hints about me :</td>
+        <td rowspan=6 width="39%"><img src="/devcard.svg" width="400" alt="Joseph NOMO's Dev Card"/></td>
     </tr>
     <tr>
         <td>🔭</td>
