@@ -49,13 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2023 - To: 14 August 2023
+From: 08 August 2023 - To: 15 August 2023
 
-Total Time: 1 hr 37 mins
+Total Time: 49 mins
 
-Lua   35 mins         █████████▒░░░░░░░░░░░░░░░   36.91 %
-sh    35 mins         █████████░░░░░░░░░░░░░░░░   36.15 %
-PHP   26 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.94 %
+sh       35 mins         █████████████████▓░░░░░░░   71.09 %
+PHP      10 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.65 %
+Bash     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
