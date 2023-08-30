@@ -49,17 +49,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2023 - To: 27 August 2023
+From: 21 August 2023 - To: 28 August 2023
 
-Total Time: 13 hrs 17 mins
+Total Time: 20 hrs 57 mins
 
-Python     9 hrs 49 mins   ██████████████████▒░░░░░░   73.85 %
-PHP        3 hrs 6 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.32 %
-TOML       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Bash       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-YAML       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python             11 hrs 7 mins   █████████████▒░░░░░░░░░░░   53.11 %
+PHP                8 hrs 46 mins   ██████████▒░░░░░░░░░░░░░░   41.86 %
+TOML               25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+reStructuredText   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Bash               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+YAML               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+ActionScript 3     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Docker             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
