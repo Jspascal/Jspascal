@@ -49,20 +49,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-Total Time: 32 hrs 48 mins
+Total Time: 32 hrs 26 mins
 
-Python             16 hrs 44 mins  ████████████▓░░░░░░░░░░░░   51.06 %
-PHP                11 hrs 48 mins  █████████░░░░░░░░░░░░░░░░   36.00 %
-Bash               1 hr 26 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JavaScript         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-TOML               54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-reStructuredText   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Python             15 hrs 18 mins  ███████████▓░░░░░░░░░░░░░   47.18 %
+PHP                12 hrs 49 mins  ██████████░░░░░░░░░░░░░░░   39.55 %
+Bash               1 hr 25 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+JavaScript         1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+TOML               54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+reStructuredText   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 Vue.js             10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 YAML               9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Markdown           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 Docker             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
