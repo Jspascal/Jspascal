@@ -49,20 +49,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2023 - To: 15 September 2023
+From: 09 September 2023 - To: 16 September 2023
 
-Total Time: 6 hrs 51 mins
+Total Time: 6 hrs 21 mins
 
-PHP            3 hrs 31 mins   █████████████░░░░░░░░░░░░   51.43 %
-Terraform      1 hr 43 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.12 %
-YAML           43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-Docker         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-Bash           9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-HTML           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Assembly       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Objective-C    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-ActionScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP           3 hrs 26 mins   █████████████▓░░░░░░░░░░░   54.02 %
+Terraform     1 hr 43 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
+Docker        30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 %
+YAML          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Bash          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+HTML          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Assembly      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
