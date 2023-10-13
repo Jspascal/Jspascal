@@ -49,20 +49,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
-Total Time: 7 hrs 56 mins
+Total Time: 3 hrs 48 mins
 
-PHP              2 hrs 50 mins   █████████░░░░░░░░░░░░░░░░   35.83 %
-JavaScript       2 hrs 18 mins   ███████▒░░░░░░░░░░░░░░░░░   29.07 %
-YAML             1 hr 27 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
-JSON             31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-Docker           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Python           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Bash             11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-TSQL             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Assembly         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+PHP          2 hrs 32 mins   ████████████████▓░░░░░░░░   66.68 %
+YAML         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
+JSON         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+Python       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
