@@ -49,16 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2023 - To: 11 October 2023
+From: 05 October 2023 - To: 12 October 2023
 
-Total Time: 3 hrs 48 mins
+Total Time: 1 hr 16 mins
 
-PHP          2 hrs 32 mins   ████████████████▓░░░░░░░░   66.68 %
-YAML         35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.72 %
-JSON         20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-Python       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-JavaScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+YAML         35 mins         ███████████▓░░░░░░░░░░░░░   47.19 %
+JSON         20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.41 %
+Python       12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
+JavaScript   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Makefile     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
