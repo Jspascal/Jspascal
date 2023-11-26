@@ -49,13 +49,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Total Time: 9 mins
+Total Time: 0 secs
 
-PHP    4 mins          ███████████▒░░░░░░░░░░░░░   45.67 %
-XML    3 mins          ██████████▒░░░░░░░░░░░░░░   41.68 %
-YAML   1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
