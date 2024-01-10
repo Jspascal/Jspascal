@@ -49,12 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
-Total Time: 1 hr 11 mins
+Total Time: 1 hr 34 mins
 
-sh    1 hr 8 mins     ████████████████████████░   96.28 %
-Lua   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+sh    1 hr 32 mins    ████████████████████████▒   97.20 %
+Lua   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
