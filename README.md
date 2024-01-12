@@ -49,12 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 January 2024 - To: 09 January 2024
+From: 03 January 2024 - To: 10 January 2024
 
-Total Time: 4 hrs
+Total Time: 4 hrs 44 mins
 
-sh    3 hrs 58 mins   ████████████████████████▓   98.90 %
-Lua   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+sh    4 hrs 42 mins   ████████████████████████▓   99.07 %
+Lua   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
