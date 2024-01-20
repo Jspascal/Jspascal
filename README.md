@@ -49,11 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 17 January 2024
+From: 11 January 2024 - To: 18 January 2024
 
-Total Time: 7 hrs 27 mins
+Total Time: 5 hrs 4 mins
 
-sh   7 hrs 27 mins   █████████████████████████   100.00 %
+sh     5 hrs 3 mins    █████████████████████████   99.64 %
+PHP    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
