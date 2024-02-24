@@ -49,15 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2024 - To: 21 February 2024
+From: 15 February 2024 - To: 22 February 2024
 
-Total Time: 7 hrs 50 mins
+Total Time: 7 hrs 9 mins
 
-sh       7 hrs 32 mins   ████████████████████████░   96.20 %
-SQL      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
-Other    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-PHP      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+sh       6 hrs 54 mins   ████████████████████████░   96.53 %
+SQL      13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Python   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
