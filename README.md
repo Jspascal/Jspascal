@@ -49,13 +49,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 6 hrs 13 mins
+Total Time: 5 hrs 16 mins
 
-sh           5 hrs 55 mins   ███████████████████████▓░   95.10 %
-JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-PHP          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+sh           4 hrs 59 mins   ███████████████████████▓░   94.74 %
+JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+PHP          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->
