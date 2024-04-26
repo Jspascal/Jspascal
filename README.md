@@ -49,18 +49,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 April 2024 - To: 23 April 2024
+From: 17 April 2024 - To: 24 April 2024
 
-Total Time: 14 hrs 34 mins
+Total Time: 15 hrs 44 mins
 
-PHP              8 hrs 12 mins   ██████████████░░░░░░░░░░░   56.36 %
-sh               5 hrs 18 mins   █████████░░░░░░░░░░░░░░░░   36.36 %
-JavaScript       48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-YAML             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-TypeScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP          9 hrs 19 mins   ██████████████▓░░░░░░░░░░   59.25 %
+sh           5 hrs 11 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 %
+JavaScript   55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
+YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
