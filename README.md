@@ -49,16 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2024 - To: 26 April 2024
+From: 20 April 2024 - To: 27 April 2024
 
-Total Time: 16 hrs 58 mins
+Total Time: 14 hrs 11 mins
 
-PHP          10 hrs 41 mins  ███████████████▓░░░░░░░░░   63.01 %
-sh           5 hrs           ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-JavaScript   56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+PHP          8 hrs 51 mins   ███████████████▓░░░░░░░░░   62.39 %
+sh           4 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+JavaScript   56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+YAML         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
