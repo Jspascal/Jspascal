@@ -49,12 +49,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2024 - To: 08 May 2024
+From: 02 May 2024 - To: 09 May 2024
 
-Total Time: 28 hrs 10 mins
+Total Time: 28 hrs 7 mins
 
-PHP          16 hrs 54 mins  ███████████████░░░░░░░░░░   60.02 %
-sh           9 hrs 52 mins   ████████▓░░░░░░░░░░░░░░░░   35.03 %
+PHP          15 hrs 48 mins  ██████████████░░░░░░░░░░░   56.20 %
+sh           10 hrs 55 mins  █████████▓░░░░░░░░░░░░░░░   38.85 %
 Other        42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 Docker       21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 YAML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
