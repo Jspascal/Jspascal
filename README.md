@@ -49,20 +49,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 June 2024 - To: 27 June 2024
+From: 22 June 2024 - To: 29 June 2024
 
-Total Time: 27 hrs 25 mins
+Total Time: 27 hrs 37 mins
 
-PHP              12 hrs 48 mins  ███████████▓░░░░░░░░░░░░░   46.69 %
-sh               6 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
-JavaScript       5 hrs 29 mins   █████░░░░░░░░░░░░░░░░░░░░   20.01 %
-TypeScript       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-JSON             31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-YAML             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-HTTP Request     25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Terraform        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-ECMAScript 6     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-GitIgnore file   8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+PHP              16 hrs 34 mins  ███████████████░░░░░░░░░░   60.00 %
+sh               5 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   20.27 %
+Vue.js           1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+JavaScript       1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+YAML             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Terraform        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+GitIgnore file   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+HTTP Request     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+HTML             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
