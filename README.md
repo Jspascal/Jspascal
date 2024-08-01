@@ -25,10 +25,6 @@
         <td>I'm currently working on a project to raise awareness about sustainable exploitation our natural resources</td>
     </tr>
     <tr>
-        <td>🌱</td>
-        <td>I’m currently learning Springboot</td>
-    </tr>
-    <tr>
         <td>👯</td>
         <td>I’m looking to collaborate on any project that can help me grow my skills. Feel free to contact me at mailto:jspnomo@gmail.com</td>
     </tr>
