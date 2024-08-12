@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2024 - To: 09 August 2024
+From: 03 August 2024 - To: 10 August 2024
 
-Total Time: 18 hrs 21 mins
+Total Time: 15 hrs 4 mins
 
-JavaScript     10 hrs 51 mins  ██████████████▓░░░░░░░░░░   59.15 %
-PHP            3 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.57 %
-YAML           3 hrs 1 min     ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-JSON           57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.19 %
-Shell Script   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-TypeScript     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Other          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-CSS            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-CSV/TSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript     8 hrs 24 mins   ██████████████░░░░░░░░░░░   55.78 %
+PHP            3 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.66 %
+YAML           2 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
+JSON           34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Shell Script   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Other          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+CSV/TSV        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 XML            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
