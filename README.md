@@ -44,16 +44,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2024 - To: 24 August 2024
+From: 18 August 2024 - To: 25 August 2024
 
-Total Time: 9 hrs 14 mins
+Total Time: 8 hrs 50 mins
 
-PHP              8 hrs 46 mins   ███████████████████████▓░   94.85 %
-Blade Template   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-Makefile         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-Bash             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+PHP              8 hrs 5 mins    ███████████████████████░░   91.59 %
+Vue.js           15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Blade Template   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Makefile         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Bash             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+JavaScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+YAML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
