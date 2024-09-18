@@ -44,15 +44,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2024 - To: 15 September 2024
+From: 09 September 2024 - To: 16 September 2024
 
-Total Time: 7 hrs 18 mins
+Total Time: 7 hrs 31 mins
 
-PHP          6 hrs 40 mins   ███████████████████████░░   91.50 %
-sh           17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+PHP              7 hrs 4 mins    ███████████████████████▒░   93.88 %
+sh               17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Blade Template   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Vue.js           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
