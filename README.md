@@ -44,18 +44,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-Total Time: 7 hrs 16 mins
+Total Time: 8 hrs 5 mins
 
-PHP              6 hrs 39 mins   ███████████████████████░░   91.61 %
-sh               17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-JavaScript       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Blade Template   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Vue.js           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP              7 hrs 45 mins   ████████████████████████░   95.96 %
+JavaScript       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+Blade Template   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Vue.js           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
