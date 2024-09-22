@@ -44,18 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Total Time: 8 hrs 8 mins
+Total Time: 12 hrs 2 mins
 
-PHP              7 hrs 45 mins   ████████████████████████░   95.42 %
-JavaScript       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-Blade Template   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Vue.js           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Docker           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+PHP              11 hrs 16 mins  ███████████████████████▒░   93.57 %
+YAML             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+JavaScript       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Terraform        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Blade Template   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Vue.js           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Docker           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
