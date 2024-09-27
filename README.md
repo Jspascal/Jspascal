@@ -44,16 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2024 - To: 24 September 2024
+From: 18 September 2024 - To: 25 September 2024
 
-Total Time: 15 hrs 36 mins
+Total Time: 11 hrs 40 mins
 
-PHP          13 hrs 55 mins  ██████████████████████▒░░   89.20 %
-YAML         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Terraform    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+PHP          9 hrs 59 mins   █████████████████████▒░░░   85.57 %
+YAML         1 hr 14 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
+Terraform    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Docker       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 HCL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
