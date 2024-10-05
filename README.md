@@ -44,15 +44,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 September 2024 - To: 02 October 2024
+From: 26 September 2024 - To: 03 October 2024
 
-Total Time: 6 hrs 32 mins
+Total Time: 9 hrs 24 mins
 
-PHP          4 hrs 54 mins   ██████████████████▓░░░░░░   74.95 %
-JavaScript   34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
-Other        25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
-Vue.js       23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
-YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+PHP              5 hrs 35 mins   ███████████████░░░░░░░░░░   59.42 %
+JavaScript       1 hr 17 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Vue.js           59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.59 %
+YAML             58 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
+Other            25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Bash             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
