@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Total Time: 16 hrs 22 mins
+Total Time: 21 hrs 43 mins
 
-PHP              7 hrs 51 mins   ████████████░░░░░░░░░░░░░   47.99 %
-Vue.js           4 hrs 28 mins   ███████░░░░░░░░░░░░░░░░░░   27.35 %
-JavaScript       2 hrs 19 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.16 %
-YAML             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Other            36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-Bash             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP              12 hrs 59 mins  ███████████████░░░░░░░░░░   59.78 %
+Vue.js           4 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+JavaScript       2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+YAML             58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Other            48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
