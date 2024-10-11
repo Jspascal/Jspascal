@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 08 October 2024
+From: 02 October 2024 - To: 09 October 2024
 
-Total Time: 20 hrs 18 mins
+Total Time: 20 hrs 21 mins
 
-PHP              11 hrs 21 mins  ██████████████░░░░░░░░░░░   55.98 %
-Vue.js           4 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.05 %
-JavaScript       2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-YAML             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Other            42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+PHP              12 hrs 24 mins  ███████████████▒░░░░░░░░░   60.94 %
+Vue.js           4 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.08 %
+JavaScript       1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+YAML             42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Other            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
 Dart             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 Kotlin           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
