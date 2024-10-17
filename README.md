@@ -44,17 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2024 - To: 14 October 2024
+From: 08 October 2024 - To: 15 October 2024
 
-Total Time: 11 hrs 6 mins
+Total Time: 14 hrs 50 mins
 
-PHP          10 hrs 9 mins   ███████████████████████░░   91.40 %
-JSON         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-Dart         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Kotlin       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+PHP          13 hrs 55 mins  ███████████████████████▒░   93.78 %
+JSON         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+JavaScript   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
