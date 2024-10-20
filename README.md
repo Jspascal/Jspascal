@@ -44,15 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2024 - To: 17 October 2024
+From: 11 October 2024 - To: 18 October 2024
 
-Total Time: 14 hrs 25 mins
+Total Time: 19 hrs 36 mins
 
-PHP              12 hrs 40 mins  ██████████████████████░░░   87.87 %
-JSON             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-Blade Template   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-JavaScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
-Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+PHP              17 hrs 35 mins  ██████████████████████▒░░   89.75 %
+JSON             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+Blade Template   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+JavaScript       24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+TypeScript       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Vue.js           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
