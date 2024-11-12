@@ -44,19 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 November 2024 - To: 09 November 2024
+From: 03 November 2024 - To: 10 November 2024
 
-Total Time: 14 hrs 40 mins
+Total Time: 10 hrs 28 mins
 
-PHP           13 hrs 33 mins  ███████████████████████░░   92.37 %
-Other         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Bash          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-YAML          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-Vue.js        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-JavaScript    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Docker        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP          10 hrs 11 mins  ████████████████████████▒   97.37 %
+Other        15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
