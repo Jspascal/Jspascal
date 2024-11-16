@@ -44,15 +44,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2024 - To: 13 November 2024
+From: 07 November 2024 - To: 14 November 2024
 
-Total Time: 6 hrs 9 mins
+Total Time: 4 hrs 40 mins
 
-PHP          6 hrs 3 mins    ████████████████████████▓   98.48 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP     4 hrs 35 mins   ████████████████████████▓   98.37 %
+Bash    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
