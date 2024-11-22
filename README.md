@@ -44,16 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 19 November 2024
+From: 13 November 2024 - To: 20 November 2024
 
-Total Time: 7 hrs 17 mins
+Total Time: 8 hrs 48 mins
 
-PHP          6 hrs 2 mins    ████████████████████▓░░░░   82.91 %
-JavaScript   1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+PHP          5 hrs 17 mins   ███████████████░░░░░░░░░░   60.13 %
+JavaScript   3 hrs 26 mins   █████████▓░░░░░░░░░░░░░░░   39.07 %
+Docker       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
