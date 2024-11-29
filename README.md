@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2024 - To: 26 November 2024
+From: 20 November 2024 - To: 27 November 2024
 
-Total Time: 8 hrs 6 mins
+Total Time: 7 hrs 5 mins
 
-PHP              3 hrs 58 mins   ████████████▒░░░░░░░░░░░░   48.95 %
-JavaScript       3 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.48 %
-Python           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-XML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-TypeScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP              5 hrs           █████████████████▓░░░░░░░   70.51 %
+JavaScript       1 hr 6 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
+Python           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Other            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+XML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JSON             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+TypeScript       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Objective-C      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+YAML             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
