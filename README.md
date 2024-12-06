@@ -44,19 +44,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2024 - To: 03 December 2024
+From: 27 November 2024 - To: 04 December 2024
 
-Total Time: 12 hrs 12 mins
+Total Time: 12 hrs 27 mins
 
-PHP              11 hrs 18 mins  ███████████████████████░░   92.55 %
-JavaScript       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
-Other            14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Objective-C      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-Apache Config    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+PHP              11 hrs 48 mins  ███████████████████████▓░   94.77 %
+JavaScript       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Docker           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
