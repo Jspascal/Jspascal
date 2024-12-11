@@ -44,12 +44,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-Total Time: 12 hrs 30 mins
+Total Time: 12 hrs 46 mins
 
-PHP          11 hrs 56 mins  ████████████████████████░   95.51 %
-JavaScript   30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+PHP          12 hrs 12 mins  ████████████████████████░   95.52 %
+JavaScript   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
 TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
