@@ -44,18 +44,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2024 - To: 20 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
-Total Time: 33 hrs 52 mins
+Total Time: 36 hrs 15 mins
 
-PHP            28 hrs 36 mins  █████████████████████░░░░   84.48 %
-Vue.js         2 hrs 59 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-JavaScript     1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-Other          39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP            30 hrs 30 mins  █████████████████████░░░░   84.13 %
+Vue.js         2 hrs 59 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+JavaScript     1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Other          1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Bash           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+YAML           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Ezhil          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 shell script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-YAML           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
