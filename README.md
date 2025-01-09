@@ -44,12 +44,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2024 - To: 06 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Total Time: 36 mins
+Total Time: 7 hrs 7 mins
 
-PHP    35 mins         ████████████████████████▓   98.76 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+PHP          6 hrs 1 min     █████████████████████░░░░   84.61 %
+YAML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+Terraform    24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
