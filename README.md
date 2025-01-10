@@ -44,17 +44,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Total Time: 7 hrs 7 mins
+Total Time: 9 hrs 13 mins
 
-PHP          6 hrs 1 min     █████████████████████░░░░   84.61 %
-YAML         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Terraform    24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP          8 hrs 1 min     █████████████████████▓░░░   87.08 %
+YAML         31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Terraform    24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
