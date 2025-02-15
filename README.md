@@ -44,20 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 8 hrs 14 mins
+Total Time: 3 hrs 51 mins
 
-TypeScript   5 hrs 56 mins   ██████████████████░░░░░░░   71.98 %
-PHP          1 hr 15 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Vue.js       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-TSConfig     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-YAML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Docker       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+PHP          3 hrs 1 min     ███████████████████▓░░░░░   78.07 %
+JavaScript   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Vue.js       18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
