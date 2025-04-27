@@ -44,14 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-Total Time: 28 hrs 18 mins
+Total Time: 29 hrs 38 mins
 
-PHP          27 hrs 26 mins  ████████████████████████▒   96.92 %
-Other        22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-JSON         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+PHP          28 hrs 32 mins  ████████████████████████░   96.29 %
+Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+JavaScript   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
 Makefile     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Perl         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
