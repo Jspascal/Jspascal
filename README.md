@@ -44,14 +44,17 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 31 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-Total Time: 3 hrs 49 mins
+Total Time: 7 hrs 28 mins
 
-PHP        2 hrs 53 mins   ███████████████████░░░░░░   75.47 %
-JSON       35 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Docker     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Markdown   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+PHP          6 hrs 6 mins    ████████████████████▒░░░░   81.77 %
+JSON         57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+Docker       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
