@@ -44,14 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 17 mins
+Total Time: 22 mins
 
-PHP          8 mins          ███████████▓░░░░░░░░░░░░░   46.07 %
-Markdown     7 mins          ███████████▒░░░░░░░░░░░░░   44.76 %
-Vue.js       1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+PHP          12 mins         ██████████████▒░░░░░░░░░░   57.03 %
+Markdown     7 mins          █████████░░░░░░░░░░░░░░░░   35.66 %
+Vue.js       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
