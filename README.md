@@ -44,15 +44,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2025 - To: 24 August 2025
+From: 18 August 2025 - To: 25 August 2025
 
-Total Time: 14 hrs 7 mins
+Total Time: 11 hrs 22 mins
 
-PHP          13 hrs 22 mins  ███████████████████████▓░   94.72 %
-Markdown     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP          10 hrs 39 mins  ███████████████████████▒░   93.63 %
+Markdown     30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
