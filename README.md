@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 August 2025 - To: 29 August 2025
+From: 23 August 2025 - To: 30 August 2025
 
-Total Time: 14 hrs 22 mins
+Total Time: 14 hrs 25 mins
 
-PHP              6 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.62 %
-JavaScript       3 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-TypeScript       2 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-YAML             1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Docker           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-JSON             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-shell script     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Blade Template   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+PHP              5 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.44 %
+JavaScript       3 hrs 5 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
+TypeScript       2 hrs 44 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
+YAML             1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Docker           32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
+JSON             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+shell script     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Blade Template   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 Markdown         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-git ignore       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+git ignore       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
