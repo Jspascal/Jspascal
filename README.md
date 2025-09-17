@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2025 - To: 15 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-Total Time: 22 hrs 56 mins
+Total Time: 35 hrs 14 mins
 
-TypeScript       12 hrs 44 mins  ██████████████░░░░░░░░░░░   55.51 %
-PHP              7 hrs 33 mins   ████████▒░░░░░░░░░░░░░░░░   32.91 %
-Blade Template   47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
-Docker           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Other            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Vue.js           14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-CSV              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-JavaScript       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-YAML             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript       17 hrs 10 mins  ████████████▒░░░░░░░░░░░░   48.76 %
+PHP              7 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+Vue.js           3 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+JavaScript       3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
+Docker           56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+YAML             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Blade Template   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+CSV              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+JSON             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
