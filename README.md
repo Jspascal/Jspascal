@@ -44,17 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Total Time: 8 hrs 57 mins
+Total Time: 8 hrs 8 mins
 
-PHP              7 hrs 53 mins   ██████████████████████░░░   88.12 %
-JSON             28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Blade Template   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-CSV              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-jsonc            6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-JavaScript       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP              7 hrs 35 mins   ███████████████████████▒░   93.23 %
+JSON             16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+CSV              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+JavaScript       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Blade Template   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
