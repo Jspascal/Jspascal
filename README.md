@@ -44,16 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2025 - To: 24 November 2025
+From: 18 November 2025 - To: 25 November 2025
 
-Total Time: 14 hrs 19 mins
+Total Time: 13 hrs 19 mins
 
-PHP     14 hrs          ████████████████████████▒   97.78 %
-YAML    11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JSON    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+PHP     13 hrs 13 mins  ████████████████████████▓   99.19 %
+YAML    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 CSV     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Bash    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
