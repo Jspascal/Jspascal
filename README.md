@@ -44,17 +44,16 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2025 - To: 09 December 2025
+From: 03 December 2025 - To: 10 December 2025
 
-Total Time: 11 hrs 58 mins
+Total Time: 7 hrs 25 mins
 
-PHP          11 hrs 47 mins  ████████████████████████▓   98.56 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-YAML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PHP          7 hrs 15 mins   ████████████████████████▒   97.70 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
