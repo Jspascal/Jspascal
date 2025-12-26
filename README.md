@@ -44,18 +44,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-Total Time: 14 hrs 59 mins
+Total Time: 15 hrs 18 mins
 
-PHP          13 hrs 8 mins   ██████████████████████░░░   87.72 %
-YAML         1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
-Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-CSV          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+PHP          12 hrs 29 mins  ████████████████████▒░░░░   81.55 %
+YAML         1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+Vue.js       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Markdown     28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TypeScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
