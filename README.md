@@ -44,16 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 27 December 2025 - To: 03 January 2026
 
-Total Time: 13 hrs 31 mins
+Total Time: 24 hrs 39 mins
 
-PHP          12 hrs 23 mins  ███████████████████████░░   91.67 %
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+PHP              22 hrs 33 mins  ███████████████████████░░   91.45 %
+Blade Template   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+JavaScript       20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+HTML             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+YAML             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+JSON             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Git Config       9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Docker           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
