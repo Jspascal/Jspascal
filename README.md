@@ -44,20 +44,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 January 2026 - To: 27 January 2026
+From: 21 January 2026 - To: 28 January 2026
 
-Total Time: 5 hrs 2 mins
+Total Time: 2 hrs 2 mins
 
-PHP              2 hrs 8 mins    ██████████▓░░░░░░░░░░░░░░   42.63 %
-Python           1 hr 25 mins    ███████░░░░░░░░░░░░░░░░░░   28.29 %
-Markdown         46 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
-Docker           17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-Bash             10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-JavaScript       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-YAML             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+PHP              1 hr 45 mins    █████████████████████▓░░░   86.23 %
+Markdown         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 %
+JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
