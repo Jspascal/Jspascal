@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2026 - To: 03 March 2026
+From: 25 February 2026 - To: 04 March 2026
 
-Total Time: 5 hrs 55 mins
+Total Time: 5 hrs 15 mins
 
-Markdown         1 hr 54 mins          ████████░░░░░░░░░░░░░░░░░   32.24 %
-YAML             1 hr 4 mins           ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-PHP              48 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Vue.js           34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-shell script     31 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-Blade Template   13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-TypeScript       12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-make             10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-git ignore       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-JSON             6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Markdown         1 hr 44 mins          ████████▒░░░░░░░░░░░░░░░░   33.16 %
+YAML             49 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+PHP              48 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+Vue.js           34 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
+shell script     31 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
+Blade Template   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+make             10 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+git ignore       6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+ActionScript     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
