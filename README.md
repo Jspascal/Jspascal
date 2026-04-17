@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2026 - To: 14 April 2026
+From: 08 April 2026 - To: 15 April 2026
 
-Total Time: 20 hrs 4 mins
+Total Time: 8 hrs 13 mins
 
-Other            14 hrs 6 mins         █████████████████▓░░░░░░░   70.27 %
-PHP              2 hrs 58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-TypeScript       1 hr 44 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Markdown         30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-YAML             20 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-JSON             16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
-JavaScript       5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-shell script     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Dockerfile       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Blade Template   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Other            3 hrs 39 mins         ███████████░░░░░░░░░░░░░░   44.52 %
+PHP              2 hrs 44 mins         ████████▒░░░░░░░░░░░░░░░░   33.27 %
+TypeScript       1 hr                  ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+Markdown         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
+JSON             12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+YAML             7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JavaScript       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Blade Template   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Docker           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Dockerfile       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
