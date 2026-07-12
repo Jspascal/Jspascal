@@ -44,20 +44,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 July 2026 - To: 09 July 2026
+From: 03 July 2026 - To: 10 July 2026
 
-Total Time: 2 hrs 8 mins
+Total Time: 1 hr 4 mins
 
-Markdown       1 hr 20 mins          ███████████████▓░░░░░░░░░   62.69 %
-YAML           24 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.98 %
-PHP            18 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
-HTML           2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-make           1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Makefile       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Other          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-TypeScript     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Vue            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-shell script   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown   59 mins               ███████████████████████░░   92.20 %
+YAML       5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
 ```
 
 <!--END_SECTION:waka-->
