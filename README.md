@@ -44,20 +44,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Total Time: 16 hrs 6 mins
+Total Time: 15 hrs 3 mins
 
-Other         6 hrs 15 mins         █████████▓░░░░░░░░░░░░░░░   38.89 %
-Markdown      4 hrs 19 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-PHP           4 hrs 13 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
-TypeScript    39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Image (svg)   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
-JSON          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-HTML          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-Python        5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Text          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-XML           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other         5 hrs 51 mins         █████████▓░░░░░░░░░░░░░░░   38.91 %
+Markdown      4 hrs 19 mins         ███████▒░░░░░░░░░░░░░░░░░   28.71 %
+PHP           3 hrs 35 mins         ██████░░░░░░░░░░░░░░░░░░░   23.89 %
+TypeScript    39 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+Image (svg)   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+JSON          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+HTML          8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python        5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Text          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
