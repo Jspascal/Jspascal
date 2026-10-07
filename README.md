@@ -44,20 +44,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2026 - To: 05 October 2026
+From: 29 September 2026 - To: 06 October 2026
 
-Total Time: 6 hrs 31 mins
+Total Time: 3 hrs 1 min
 
-Markdown                   3 hrs 36 mins         ██████████████░░░░░░░░░░░   55.36 %
-Other                      1 hr 15 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-Text                       52 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-JavaScript                 34 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-Docker                     5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-YAML                       4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-TypeScript                 2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-HTML                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Bash                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Nginx configuration file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript                 57 mins               ████████░░░░░░░░░░░░░░░░░   31.91 %
+Markdown                   51 mins               ███████░░░░░░░░░░░░░░░░░░   28.44 %
+TypeScript                 27 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
+Other                      15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Text                       15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+PHP                        10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
+Bash                       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+HTML                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Nginx configuration file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
