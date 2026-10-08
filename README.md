@@ -44,19 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2026 - To: 06 October 2026
+From: 30 September 2026 - To: 07 October 2026
 
-Total Time: 3 hrs 1 min
+Total Time: 3 hrs 28 mins
 
-JavaScript                 57 mins               ████████░░░░░░░░░░░░░░░░░   31.91 %
-Markdown                   51 mins               ███████░░░░░░░░░░░░░░░░░░   28.44 %
-TypeScript                 27 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
-Other                      15 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-Text                       15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-PHP                        10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Bash                       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-HTML                       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Nginx configuration file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+JavaScript                 57 mins               ███████░░░░░░░░░░░░░░░░░░   27.78 %
+Markdown                   56 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+TypeScript                 31 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Other                      21 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Text                       15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+PHP                        10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+shell script               7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Bash                       2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JSON                       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+YAML                       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
