@@ -44,20 +44,20 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Total Time: 28 hrs 21 mins
+Total Time: 32 hrs 39 mins
 
-TypeScript     5 hrs 58 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Java           5 hrs 33 mins         █████░░░░░░░░░░░░░░░░░░░░   19.60 %
-Markdown       5 hrs 3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-Other          3 hrs 2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
-JavaScript     2 hrs 2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
-YAML           1 hr 22 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-PHP            1 hr 17 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-Image (svg)    1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-SCSS           41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
-shell script   30 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Markdown       7 hrs 44 mins         ██████░░░░░░░░░░░░░░░░░░░   23.72 %
+Java           5 hrs 34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
+TypeScript     5 hrs 21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Kotlin         3 hrs 21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Other          2 hrs 51 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+YAML           1 hr 27 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+PHP            1 hr 17 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Image (svg)    1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+JavaScript     1 hr 1 min            ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+SCSS           36 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
 ```
 
 <!--END_SECTION:waka-->
